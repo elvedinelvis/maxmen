@@ -1,6 +1,3 @@
 maxmen
 
 KARTA
-
-hejhej
-tjatja
