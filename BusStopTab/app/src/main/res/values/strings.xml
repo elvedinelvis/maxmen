@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">BusStopTab</string>
+    <string name="search_hint">Travel from</string>
+    <string name="app_label">Bus search</string>
+
+    <string-array name="max_men_members">
+        <item>Kevin H Griffith</item>
+        <item>Elvedin MaxBoy</item>
+        <item>Anders Huynh</item>
+        <item>Erik Nguyen</item>
+    </string-array>
+</resources>
