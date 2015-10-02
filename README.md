@@ -2,6 +2,7 @@ MAXMEN
 
 --------------------------------------------------------------------------------------------------------------------------------
 Konceptbeskrivning
+
 Många resenärer inklusive gruppen själva finner att busshållplatser inte är speciellt attraktiva i dagsläget och vi vill göra en förändring på det. Vi tror starkt på att busshållplatsen har en stor inverkan på om människor väljer att åka kollektivt eller inte.
 Vårt koncept bygger på att modernisera dagens busshållplatser genom att använda oss utav dagens teknologi, mobil- och tv-appar mm. är någonting som spelar en stor roll i människans vardag. Med detta som inspiration har vi kommit fram till att skapa en app till touchskärmarna som bland annat finns på Götaplatsen, Chalmersplatsen och Teknikgatan.
 Applikationen bygger på att skapa en realtidsversion av tidtabellen som finns på busshållplatserna, med det menar vi att med hjälp av touchskärmen kunna visa en karta runt hållplatsens område.Tanken är att kunna visa vart andra hållplatser i närheten befinner sig, och vart bussen befinner sig i realtid, utöver kartan kommer det även att finnas information i form av en tidtabell.
